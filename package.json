@@ -1,0 +1,24 @@
+{
+  "name": "crud_cli_app",
+  "version": "1.0.0",
+  "description": "CRUD Command Line Application With Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisfeliz3/CRUD_CLI_APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisfeliz3/CRUD_CLI_APP/issues"
+  },
+  "homepage": "https://github.com/Luisfeliz3/CRUD_CLI_APP#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "uuid": "^9.0.1"
+  }
+}
